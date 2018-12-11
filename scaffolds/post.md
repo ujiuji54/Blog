@@ -19,8 +19,8 @@ tag: []
 3. sasisu
 
 画像挿入
-![](assets/ "")
-source/assets/ に現在の月のディレクトリを作成し、画像追加
+{% asset_img example.png %}
+source/_posts/ にある記事ファイルと同じ名前のフォルダに画像追加
 
 リンク
 [node.js公式](https://nodejs.org/ja/ "node.js公式")
